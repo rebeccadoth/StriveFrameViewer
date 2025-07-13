@@ -1,6 +1,6 @@
-# CURRENTLY NOT BEING MAINTAINED 
+# Notice
 
-Cause I don't have access to my main pc anymore rip
+Just updating the offsets, I'm not gonna do anything else to the mod.
 
 # Strive Frame Viewer
 
